@@ -20,7 +20,7 @@
   </div>        
 </div>
 
-<div>
+<div id="tools">
   <h3>Мои инструменты</h3>
   <div id-"icon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" height="70px" width="70px"/>
